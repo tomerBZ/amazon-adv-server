@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/amazonController.js" />
+        <item url="file://$PROJECT_DIR$/dist/controllers/homeController.js" />
+        <item url="file://$PROJECT_DIR$/dist/database/driver.js" />
+        <item url="file://$PROJECT_DIR$/dist/database/models/products.js" />
+        <item url="file://$PROJECT_DIR$/dist/database/modules/products.js" />
+        <item url="file://$PROJECT_DIR$/dist/database/schemas/products.js" />
+        <item url="file://$PROJECT_DIR$/dist/helpers/itemHelper.js" />
+        <item url="file://$PROJECT_DIR$/dist/integrations/amazon.js" />
+        <item url="file://$PROJECT_DIR$/dist/interfaces/itemInterface.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/routes/search.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/amazonController.js" />
+      <root url="file://$PROJECT_DIR$/dist/controllers/homeController.js" />
+      <root url="file://$PROJECT_DIR$/dist/database/driver.js" />
+      <root url="file://$PROJECT_DIR$/dist/database/models/products.js" />
+      <root url="file://$PROJECT_DIR$/dist/database/modules/products.js" />
+      <root url="file://$PROJECT_DIR$/dist/database/schemas/products.js" />
+      <root url="file://$PROJECT_DIR$/dist/helpers/itemHelper.js" />
+      <root url="file://$PROJECT_DIR$/dist/integrations/amazon.js" />
+      <root url="file://$PROJECT_DIR$/dist/interfaces/itemInterface.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/routes/search.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

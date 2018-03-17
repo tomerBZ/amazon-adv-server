@@ -31,10 +31,4 @@ exports.index = function (req, res) {
         return res.status(404).send(error);
     });
 };
-
-exports.delete = function (req, res) {
-    Product.remove({ _id: req.body.id }, function (error) {
-        if (error) res.status(500).send('error removing product');else res.send({ "success": true });
-    });
-};
 //# sourceMappingURL=amazonController.js.map

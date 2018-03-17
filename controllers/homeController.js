@@ -6,10 +6,3 @@ exports.index = (req, res) => {
         else res.send(products);
     });
 };
-
-exports.delete = (req, res) => {
-    Product.remove({_id: req.body.id}, (error) => {
-        if (error) res.status(500).send('error removing product');
-        else res.send({"success": true});
-    });
-};

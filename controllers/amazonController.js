@@ -30,3 +30,12 @@ exports.index = (req, res) => {
         })
         .catch((error) => res.status(404).send(error));
 };
+
+
+
+exports.delete = (req, res) => {
+    Product.remove({_id: req.body.id}, (error) => {
+        if (error) res.status(500).send('error removing product');
+        else res.send({"success": true});
+    });
+};

@@ -14,7 +14,7 @@ Application - NodeJS - ExpressJS
 
 Database - MongoDB
 
-<img src="https://webassets.mongodb.com/_com_assets/global/mongodb-logo-white.png" width="150" height="50">
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" width="150" height="50">
 
 
 
